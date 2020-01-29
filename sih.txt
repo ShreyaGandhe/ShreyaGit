@@ -1,0 +1,11 @@
+1.Our chatbot increases the usability by communicating in different languages that is local, hindi and english so that the illeterates can also get a fair chance of filing a complaint when needed.
+2.To ensure that the user is genuine an otp is sent as a form of verification.
+3.Since the primary function of our webapp is to replicate the process of filing an FIR without visiting the police station itself the information given by the user is stored in the databse in different forms such as audio file, text document in english language and the language spoken by the user.
+4.Adhaar number or any identification proof along with various snapshots of the user are taken while recording the complaint to ensure the genuineness of the user.
+5.The app is made further user friendly by tracking the location of the user and sending a notification via the app to the nearest police station about the registered complaint.
+6.After the user gets a confirmation call from the police he/she is sent a text message with the url for traking the status of the complaint.
+7.The app is also helpful to the police since it sorts the records according to different stages like pending,completed etc.Any record can be found by using the search feild.
+8.The records and data are represented in pictographical format according to the types of crimes, areas etc.
+ 
+SHOWSTOPPER
+The web based chatbot is made for the illeterates as well as literates for filing a complaint in an instant. It reduces the steps and time involved in visiting a police station to lodge an FIR. The aim of the app is to increase the number of registered complaints which were previously left unregistered for various reasons.   
